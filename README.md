@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @inviHD also known as Markus
-- 👀 I love programming Python, C++, Java (HTML hehe) and JavaScript
-- 🌱 I’m currently learning GUI Developement with Java
+- 👀 Programming mostly in Python and Java - sometimes C++ 
 
 <!---
 inviHD/inviHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
