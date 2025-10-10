@@ -3,8 +3,6 @@
 ```
 invi@github:~$ nyaofetch
 ```
-<br>
-
 ```
 Username: inviHD
 whoami: I am a student in Mittweida studying General and digital forensics
