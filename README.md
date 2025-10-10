@@ -5,7 +5,7 @@ invi@github:~$ nyaofetch
 ```
 ```
 Username: inviHD
-whoami: I am a student in Mittweida studying General and digital forensics
+whoami: I study general and digital forensics at Mittweida
 OS: Nyarch ^^
 Best Animes: ["Sword Art Online","Neon Genesis Evangelion", "Don’t Toy With Me, Miss Nagatoro"]
 Waifu: Shino 'Sinon' Asada
