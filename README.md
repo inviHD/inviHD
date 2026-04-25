@@ -14,4 +14,4 @@
 
 ## OS
 ![Fedora](https://img.shields.io/badge/fedora-000B52?style=for-the-badge&logo=fedora)
-![Kubuntu](https://img.shields.io/badge/fedora-000B52?style=for-the-badge&logo=kubuntu)
+![Kubuntu](https://img.shields.io/badge/kubuntu-000B52?style=for-the-badge&logo=kubuntu)
