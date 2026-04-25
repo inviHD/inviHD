@@ -1,22 +1,17 @@
-<h2 align="center">About me</h2>
+# About me
 
-```
-invi@github:~$ nyaofetch
-```
-```
-Username: inviHD
-whoami: I study general and digital forensics at Mittweida
-OS: Nyarch ^^
-Best Animes: ["Sword Art Online","Neon Genesis Evangelion", "Don’t Toy With Me, Miss Nagatoro"]
-Waifu: Shino 'Sinon' Asada
-Discord: 0nv0
-Pronouns: He/Him
-ProgrammingLanguages: Python, C++, Java
-Hobbies: programming, sport shooting, motorcycling, animes
-Languages.C2: Deutsch
-Languages.B2/C1: english
-Languages.A1: español, français
-Languages.other: Latinum
-Languages.IreallyWantToLearn: 日本語
-```
+## Languages
+https://img.shields.io/badge/python-000B52?style=for-the-badge&logo=python
+https://img.shields.io/badge/javascript-000B52?style=for-the-badge&logo=javascript
+https://img.shields.io/badge/c++-000B52?style=for-the-badge&logo=cplusplus
+https://img.shields.io/badge/java-000B52?style=for-the-badge
 
+## Tools
+https://img.shields.io/badge/vscode-000B52?style=for-the-badge
+https://img.shields.io/badge/visualstudio-000B52?style=for-the-badge
+https://img.shields.io/badge/eclipse-000B52?style=for-the-badge&logo=eclipseide
+https://img.shields.io/badge/docker-000B52?style=for-the-badge&logo=docker
+
+## OS
+https://img.shields.io/badge/fedora-000B52?style=for-the-badge&logo=fedora
+https://img.shields.io/badge/fedora-000B52?style=for-the-badge&logo=kubuntu
